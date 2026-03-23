@@ -23,9 +23,7 @@ Logic: Vanilla JavaScript (ES6+, Fetch API, LocalStorage)
 
 Data Feed: External API integration for live commodity pricing.
 
-⚙️ How to Set Up
-Clone the Repository: ```bash
-git clone https://www.google.com/search?q=https://github.com/your-username/satyam-jewellers-billing.git
+
 
 Add Your API Key:
 Open the JavaScript section and replace the placeholder with your free key from goldapi.io:
